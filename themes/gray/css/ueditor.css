@@ -647,6 +647,7 @@ div.edui-box {
 .edui-gray .edui-dialog {
     z-index: 2000;
     position: absolute;
+    box-sizing: content-box!important;
 }
 
 .edui-gray .edui-dialog-modalmask,
